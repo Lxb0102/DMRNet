@@ -1,6 +1,6 @@
 # DMRNet
 
-**This is the data and code for our paper** `Debiased Medication Recommendation through Frequent Pattern Mining with Temporal Medical Records`.
+**This is the data and code for our paper** `Debiased Medication Recommendation through Fusing Frequent Pattern and Temporal Medical Records`.
 
 For reproduction of medication prediction results in our paper, see instructions below.
 
